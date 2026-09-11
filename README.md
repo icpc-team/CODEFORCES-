@@ -1,2 +1,2 @@
 Hello,
-coders welcome our codeforces repository
+coders welcome our codeforces repository.
